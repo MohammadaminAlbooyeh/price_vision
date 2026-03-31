@@ -1,0 +1,12 @@
+# Git ignore file
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+data/raw/*
+data/processed/*
+models/*.pkl
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!models/.gitkeep

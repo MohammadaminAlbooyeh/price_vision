@@ -1,0 +1,5 @@
+/Users/amin/Documents/MyProjects/price_vision/backend/src/data_preprocessing.py:6: DtypeWarning: Columns (10,11) have mixed types. Specify dtype option on import or set low_memory=False.
+  data = pd.read_csv(file_path)
+Linear Regression R^2 Score: -0.010780561177162529
+Random Forest R^2 Score: -0.36854375514019977
+Saved best model: LinearRegression

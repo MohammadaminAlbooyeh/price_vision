@@ -1,0 +1,18 @@
+2026-03-30 10:30:08,992 - PriceVision - ERROR - Error loading model: [Errno 2] No such file or directory: '../models/model.pkl'
+2026-03-30 10:30:12,641 - PriceVision - ERROR - Error loading model: [Errno 2] No such file or directory: '../models/model.pkl'
+2026-03-30 10:30:23,049 - PriceVision - ERROR - Error loading model: [Errno 2] No such file or directory: '../models/model.pkl'
+2026-03-30 10:30:37,321 - PriceVision - ERROR - Error loading model: [Errno 2] No such file or directory: '../models/model.pkl'
+2026-03-30 10:34:28,531 - PriceVision - ERROR - Error loading model: [Errno 2] No such file or directory: '../models/model.pkl'
+2026-03-30 10:34:38,520 - PriceVision - ERROR - Error loading model: [Errno 2] No such file or directory: '../models/model.pkl'
+2026-03-30 10:35:31,699 - PriceVision - ERROR - Error loading model: [Errno 2] No such file or directory: '../models/model.pkl'
+2026-03-30 10:35:45,838 - PriceVision - INFO - Model loaded successfully
+2026-03-30 10:35:51,963 - PriceVision - INFO - Model loaded successfully
+2026-03-30 10:36:13,843 - PriceVision - INFO - Model loaded successfully
+2026-03-30 10:46:24,941 - PriceVision - INFO - Model loaded successfully
+2026-03-30 10:46:28,011 - PriceVision - INFO - Model loaded successfully
+2026-03-30 10:46:35,135 - PriceVision - INFO - Model loaded successfully
+2026-03-30 10:46:53,523 - PriceVision - INFO - Model loaded successfully
+2026-03-30 10:47:12,226 - PriceVision - INFO - Model loaded successfully
+2026-03-30 10:47:18,740 - PriceVision - INFO - Model loaded successfully
+2026-03-30 10:47:25,373 - PriceVision - INFO - Model loaded successfully
+2026-03-30 10:47:39,440 - PriceVision - INFO - Model loaded successfully
